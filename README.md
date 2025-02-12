@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=02F751&width=435&lines=Hi+there!+I'm+Aaron+Jay;Software+Developer+%7C+Tech+Enthusiast;Open+Source+Contributor+;Lifelong+Learner" />
 </p>
 
-<!-- Profile Banner (Optional) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/main/banner.gif" alt="Banner" width="100%" />
-</p>
-
 
 <!-- About Me -->
 ### 👨‍💻 About Me
